@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Home.css"
-import man from "../../assets/man.png"
+import man from "../../assets/myImage.png"
 import { TypeAnimation } from 'react-type-animation';
 import { Button } from 'react-scroll';
 import {useGSAP} from '@gsap/react'
