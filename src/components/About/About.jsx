@@ -132,6 +132,7 @@ const About = () => {
             </div>
         </div>
          <div className="rightabout">
+        {/* cards */}
             <Card title={"WEB DEVELOPER/iOS DEVELOPER"} image={webD}/>
             <Card title={"DSA"} image={dsa}/>
             <Card title={"JAVA"} image={java}/>
