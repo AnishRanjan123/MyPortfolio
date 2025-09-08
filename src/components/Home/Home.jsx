@@ -47,7 +47,18 @@ const Home = () => {
                 cursor={true}
               />
             </div>
-            <Button>HIRE ME</Button>
+          <Button
+  onClick={() =>
+    window.open(
+      "https://drive.google.com/file/d/1yBkzWZN8kxCoyOH_mUYzt-M2qDoEwKwM/view?usp=share_link",
+      "_blank"
+    )
+  }
+>
+  HIRE ME
+</Button>
+
+
         </div>
     </div>
     <div className="righthome">
