@@ -49,6 +49,7 @@ const About = () => {
     }
     
 });
+
  gsap.from(".aboutdetails ul", {
     y: 100,
     duration: 1,
