@@ -25,8 +25,8 @@
     width: 60px;
     height:60px;
     border-radius: 50%;
-    background-color: rgb(0, 255, 229);
-    box-shadow: 4px 4px 20px rgb(0, 255, 229);
+    background-color: rgb(3, 192, 245);
+    box-shadow: 4px 4px 20px rgb(3, 192, 245);
 }
 .line{
     width:2px;
@@ -43,7 +43,7 @@
     list-style: none;
 }
 .aboutdetails h1{
-     background: linear-gradient(to right, rgb(198, 42, 96),white);
+  background: linear-gradient(to right, rgb(3, 192, 245),white);
   background-clip: text;
   color: transparent;
 }
@@ -51,7 +51,7 @@
     color: azure;
 }
 .aboutdetails span{
-    color: rgb(78, 225, 233);
+    color: rgb(3, 192, 245);
 }
 .rightabout{
     width: 50%;

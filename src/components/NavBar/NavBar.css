@@ -16,7 +16,7 @@ nav ul a{
     cursor: pointer;
 }
 nav ul a:hover{
-     color: rgb(130, 206, 206);
+     color: rgb(3, 192, 245);
     border-bottom: 2px solid white;
 }
 nav ul{
@@ -33,13 +33,13 @@ nav ul{
 nav h1{
   font-size: 30px;
   font-weight: 600;
-  background: linear-gradient(to right, rgb(0, 255, 229),white);
+  background: linear-gradient(to right, rgb(3, 192, 245),white);
   background-clip: text;
   color: transparent;
 
 }
 .active{
-    color: rgb(130, 206, 206);
+    color: rgb(3, 192, 245);
     border-bottom: 2px solid white;
     
 }

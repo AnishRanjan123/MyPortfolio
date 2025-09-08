@@ -21,7 +21,7 @@
     padding: 20px;
 }
 #projects h1{
-    background: linear-gradient(to right, rgb(198, 42, 96),white);
+  background: linear-gradient(to right, rgb(3, 192, 245),white);
   background-clip: text;
   color: transparent;
 }
@@ -31,6 +31,7 @@
   background-clip: text;
   color: transparent;
   text-align: center;
-
-
 }
+
+
+

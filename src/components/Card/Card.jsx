@@ -11,7 +11,4 @@ function Card ({title,image}){
     </div>
   )
 }
-
-
-
 export default Card

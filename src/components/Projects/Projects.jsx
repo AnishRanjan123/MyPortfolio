@@ -1,11 +1,11 @@
 import React from 'react'
 import Card from '../Card/Card'
 import "./Projects.css"
-import va from "../../assets/va.png"
-import fw from "../../assets/fw.png"
-import tti from "../../assets/tti.png"
-import ise from "../../assets/ise.png"
-import cb from "../../assets/cb.png"
+import va from "../../assets/image.png"
+import fw from "../../assets/image1.png"
+import tti from "../../assets/image2.png"
+import ise from "../../assets/image3.png"
+
 import { useGSAP } from '@gsap/react'
 import gsap from 'gsap'
 import { ScrollTrigger } from 'gsap/all'
@@ -44,11 +44,11 @@ scrollTrigger: {
                MY PROJECTS
             </h1>
              <div className="slider">
-                <Card image={va}/>
-                 <Card image={fw}/>
-                  <Card image={tti}/>
-                   <Card image={ise}/>
-                    <Card image={cb} />
+                <Card title={"NUMBER WAR"} image={va} />
+                 <Card title={"READERNEST"} image={fw} />
+                  <Card title={"JOB-PORTAL"} image={tti} />
+                   <Card title={"HMS"} image={ise} />
+                
              </div>
         </div>
     </div>

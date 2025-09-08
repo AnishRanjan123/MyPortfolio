@@ -15,11 +15,12 @@
     cursor: pointer;
     flex-shrink: 0;
     padding: 10px;
+
     overflow: hidden;
 
 }
 .card:hover{
-    box-shadow: 2px 2px 10px rgb(34, 232, 236),2px 2px 20px black;
+    box-shadow: 2px 2px 10px rgb(3, 192, 245),2px 2px 20px black;
 }
 .hovercard img{
    height: 80%;
@@ -42,7 +43,7 @@
     transform: translateY(0%);
 }
 .card h1{
-    background: linear-gradient(to right, rgb(0, 255, 229),white);
+    background: linear-gradient(to right,rgb(3, 192, 245),white);
     background-clip: text;
     color: transparent;
 }
